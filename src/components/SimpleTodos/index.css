@@ -1,0 +1,24 @@
+/* Write your CSS here */
+
+.bg-container {
+  background-color: #ffc2a0;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 50px 20px 20px 20px;
+}
+
+.white-bg-container {
+  background-color: #fff;
+  width: 80%;
+  padding: 20px 150px 20px 50px;
+}
+
+.main-heading {
+  color: #ffc2a0;
+  font-family: 'Roboto';
+  font-size: 28px;
+  font-weight: 700;
+  text-align: center;
+}
